@@ -1,0 +1,8 @@
+Class abc< self
+  def abc 
+    puts"Today is a nice day"
+  end
+  def aaa
+    puts"Today is a new day"
+  end
+end
